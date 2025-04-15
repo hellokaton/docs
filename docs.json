@@ -32,7 +32,7 @@
           {
             "group": "alist 接口列表",
             "openapi": {
-              "source": "/alist_v3_openapi.json",
+              "source": "alist_v3_openapi.json",
               "directory": "api-reference"
             }
           }
